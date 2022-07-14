@@ -30,6 +30,7 @@ const lyric=new Lyric(参数)
 
 
 ### 3、相关API
+注意这些方法都是挂载到Lyric类的实例对象上的
 
 ```
 _init()
